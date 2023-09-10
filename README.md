@@ -1,3 +1,9 @@
+# 写在前面
+```
+docker build -t your-image-name .
+docker run -p 8000:80 your-image-name
+```
+
 ![img.png](img.png)
 
 # 使用方法
